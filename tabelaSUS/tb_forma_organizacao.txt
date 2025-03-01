@@ -1,0 +1,409 @@
+090401Ofertas de Cuidados Integrados em Otorrinolaringologia.                                             202501
+090501Ofertas de Cuidados Integrados em Oftalmologia.                                                     202501
+090601Consultas e Teleatendimentos em Ofertas de Cuidados Integrados.                                     202501
+010101Educação em saúde                                                                                   202501
+010201Vigilancia sanitária                                                                                202501
+020101Coleta de material por meio de punção/biópsia                                                       202501
+020201Exames bioquimicos                                                                                  202501
+020301Exames citopatológicos                                                                              202501
+020401Exames radiológicos da cabeça e pescoço                                                             202501
+020501Ultra-sonografias do sistema circulatório (qualquer região anatômica)                               202501
+020601Tomografia da cabeça, pescoço e coluna vertebral                                                    202501
+020701RM da cabeça, pescoço e coluna vertebral                                                            202501
+020801Aparelho cardiovascular                                                                             202501
+020901Aparelho digestivo                                                                                  202501
+021001Exames radiológicos de vasos sangüíneos e linfáticos                                                202501
+021101Diagnóstico em angiologia                                                                           202501
+021201Exames do doador/receptor                                                                           202501
+021301Exames relacionados a doenças e agravos de notificação compulsória                                  202501
+021401Teste realizado fora da estrutura de laboratório                                                    202501
+030101Consultas médicas/outros profissionais  de nivel superior                                           202501
+030201Assistência fisioterapêutica em alterações obstétricas, neonatais e uroginecológicas                202501
+030301Tratamento de doenças infecciosas e parasitárias                                                    202501
+030401Radioterapia                                                                                        202501
+030501Tratamento dialítico                                                                                202501
+030601Procedimentos destinados a obtenção do sangue para fins de assistência hemoterapica                 202501
+030701Dentística                                                                                          202501
+030801Traumatismos                                                                                        202501
+030901Terapia nutricional                                                                                 202501
+031001Parto e nascimento                                                                                  202501
+031101Ações Assistenciais                                                                                 202501
+040101Pequenas cirurgias                                                                                  202501
+040201Cirurgia de tireóide e paratireóide                                                                 202501
+040301Trauma e anomalias do desenvolvimento                                                               202501
+040401Cirurgia das vias aéreas superiores e do pescoço                                                    202501
+040501Palpebras e vias lacrimais                                                                          202501
+040601Cirurgia cardiovascular                                                                             202501
+040701Esôfago, estômago e duodeno                                                                         202501
+040801Cintura escapular                                                                                   202501
+040901Rim, ureter e bexiga                                                                                202501
+041001Mama                                                                                                202501
+041101Parto                                                                                               202501
+041201Traqueia e brônquios                                                                                202501
+041301Tratamento de queimados                                                                             202501
+041401Buco-maxilo-facial                                                                                  202501
+041501Múltiplas                                                                                           202501
+041601Urologia                                                                                            202501
+041701Anestesias                                                                                          202501
+041801Acessos para dialise                                                                                202501
+050101Coleta e exames para identificação de doador de células-tronco hematopoéticas (busca nacional)      202501
+050201Avaliação clínica de morte encefálica                                                               202501
+050301Ações relacionadas a doação de orgãos e tecidos para transpalnte                                    202501
+050401Processamento de córnea/esclera                                                                     202501
+050501Transplante de tecidos e células                                                                    202501
+050601Acompanhamento de paciente no pré e pós-transplante                                                 202501
+060101Agentes anticitocinas                                                                               202501
+060201Procoagulantes em coagulopatias hereditárias                                                        202501
+060301Antiinflamatórios                                                                                   202501
+060401Acido Aminosalicilico e Similares                                                                   202501
+070101OPM auxiliares da locomoção                                                                         202501
+070201OPM em neurocirurgia                                                                                202501
+080101Incentivos                                                                                          202501
+080201Diárias                                                                                             202501
+080301Deslocamento/Ajuda de custo                                                                         202501
+080401Ações de Telessaúde entre Profissionais de Saúde                                                    202501
+090101Ofertas de Cuidados Integrados em Oncologia                                                         202501
+090201Ofertas de Cuidados Integrados em Cardiologia                                                       202501
+090301Ofertas de Cuidados Integrados em Ortopedia                                                         202501
+010102Saúde bucal                                                                                         202501
+080402Atendimentos em Saúde Mediados por Tecnologias Digitais                                             202501
+020102Outras formas de coleta de material                                                                 202501
+020202Exames hematológicos e hemostasia                                                                   202501
+020302Exames anatomopatológicos                                                                           202501
+020402Exames radiológicos da coluna vertebral                                                             202501
+020502Ultra-sonografias dos demais sistemas                                                               202501
+020602Tomografia do torax e membros superiores                                                            202501
+020702RM do torax e membros superiores                                                                    202501
+020802Aparelho digestivo                                                                                  202501
+020902Aparelho urinário                                                                                   202501
+021002Vias biliares                                                                                       202501
+021102Diagnóstico em cardiologia                                                                          202501
+021202Procedimentos especiais em hemoterápica                                                             202501
+021302Exames relacionados ao meio ambiente                                                                202501
+030102Atendimento/Acompanhamento em saúde do trabalhador                                                  202501
+030202Assistência fisioterapêutica em alterações oncológicas                                              202501
+030302Tratamento de doenças do sangue, orgãos hematopoéticos e alguns transtornos imunitários             202501
+030402Quimioterapia paliativa - adulto                                                                    202501
+030502Tratamento em nefrologia em geral                                                                   202501
+030602Medicina transfusional                                                                              202501
+030702Endodontia                                                                                          202501
+030802Intoxicações e envenenamentos                                                                       202501
+030902Terapias em doenças alérgicas                                                                       202501
+031102Ações Matriciais                                                                                    202501
+040102Cirurgias de pele, tecido subcutâneo e mucosa                                                       202501
+040202Cirurgia da suprarrenal                                                                             202501
+040302Coluna e nervos periféricos                                                                         202501
+040402Cirurgia da face e do sistema estomatognático                                                       202501
+040502Músculos oculomotores                                                                               202501
+040602Cirurgia vascular                                                                                   202501
+040702Intestinos , reto e anus                                                                            202501
+040802Membros superiores                                                                                  202501
+040902Uretra                                                                                              202501
+041102Outras cirurgias relacionadas com o estado gestacional                                              202501
+041202Mediastino                                                                                          202501
+041302Reparadora em oncológica                                                                            202501
+041402Cirurgia oral                                                                                       202501
+041502Sequenciais                                                                                         202501
+041602Sistema linfático                                                                                   202501
+041802Intervençõess cirúrgicas em acessos para diálise                                                    202501
+050102Exames de histocompatibilidade para identificação de receptor de células-tronco hematopoéticas      202501
+050302Cirurgias para transplante - doador vivo                                                            202501
+050402Processamento de tecido ósteo-fascio-condro-ligamentoso humano                                      202501
+050502Transplante de orgãos                                                                               202501
+050602Intercorrência pós transplante                                                                      202501
+060102Antagonista do glutamato                                                                            202501
+060302Imunossupressores                                                                                   202501
+060402Agentes Quelantes de Ferro                                                                          202501
+070102OPM ortopédicas                                                                                     202501
+070202OPM em cirurgia buco-maxilo-facial                                                                  202501
+080202Outras ações                                                                                        202501
+010202Vigilância em saúde do trabalhador                                                                  202501
+010103Visita domiciliar                                                                                   202501
+080403Ações de Vigilância em Saúde Mediadas por Tecnologias Digitais                                      202501
+020203Exames sorológicos e imunológicos                                                                   202501
+020403Exames radiológicos do torax e mediastino                                                           202501
+020603Tomografia do abdomen, pelve e membros inferiores                                                   202501
+020703RM do abdomen, pelve e membros inferiores                                                           202501
+020803Aparelho endócrino                                                                                  202501
+020903Aparelho ginecológico                                                                               202501
+021103Diagnóstico cinético funcional                                                                      202501
+030103Atendimento pré-hospitalar de urgência                                                              202501
+030203Assistência fisioterapêutica em oftalmologia                                                        202501
+030303Tratamento de doenças endocrinas, metabólicas e nutricionais                                        202501
+030403Quimioterapia para controle temporário de doença - adulto                                           202501
+030703Periodontia clínica                                                                                 202501
+030803Outras consequências de causas externas                                                             202501
+030903Terapias do aparelho geniturinário                                                                  202501
+040303Tumores do sistema nervoso                                                                          202501
+040403Anomalia Crânio e bucomaxilo facial                                                                 202501
+040503Corpo vítreo, retina, coróide e esclera                                                             202501
+040603Cardiologia intervencionista                                                                        202501
+040703Pancreas, baco, figado e vias biliares                                                              202501
+040803Coluna vertebral e caixa torácica                                                                   202501
+040903Próstata e vesicula seminal                                                                         202501
+041203Pleura                                                                                              202501
+041303Reparadora para lipodistrofia                                                                       202501
+041503Politraumatizados                                                                                   202501
+041603Cabeça e pescoço                                                                                    202501
+050103Coleta e exames para ident. de doador de célula-tronco hematopoéticas (busca internacional/nacional)202501
+050303Manutenção e retirada de orgãos e tecidos para transplante                                          202501
+050403Processamento de válvula/tubo valvado cardíaco humano                                               202501
+060103Antianêmicos não hormonais                                                                          202501
+060303Imunoterápicos                                                                                      202501
+060403Agonistas da Dopamina/inibidor da prolactina                                                        202501
+070103OPM em Otorrinolaringologia.                                                                        202501
+070203OPM em ortopedia                                                                                    202501
+010203Vigilância epidemiológica - vacinas                                                                 202501
+010104Alimentação e nutrição                                                                              202501
+070204OPM em assistência cardiovascular                                                                   202501
+020404Exames radiológicos da cintura escapular e dos membros superiores                                   202501
+020804Aparelho geniturinário                                                                              202501
+020904Aparelho respiratório                                                                               202501
+021104Diagnóstico em ginecologia-obstetrícia                                                              202501
+030104Outros atendimentos realizados por profissionais de níveis superior                                 202501
+030204Assistência fisioterapêutica cardiovasculares e pneumo-funcionais                                   202501
+030304Tratamento de doenças do sistema nervoso central e periférico                                       202501
+030404Quimioterapia prévia (neoadjuvante/citorredutora)- adulto                                           202501
+030704Moldagem/Manutenção                                                                                 202501
+030804Complicações consequentes a procedimentos em saúde                                                  202501
+030904Terapias do aparelho cardiovascular                                                                 202501
+040304Neurocirurgias vasculares                                                                           202501
+040504Cavidade orbitária e globo ocular                                                                   202501
+040604Cirurgia endovascular                                                                               202501
+040704Parede e cavidade abdominal                                                                         202501
+040804Cintura pélvica                                                                                     202501
+040904Bolsa escrotal, testículos e cordão espermático                                                     202501
+041204Parede torácica                                                                                     202501
+041304Outras cirurgias plásticas/reparadoras                                                              202501
+041504Procedimentos cirúrgicos gerais                                                                     202501
+041604Esôfago-gastro duodenal e vísceras anexas e outros orgãos intra-abdominais                          202501
+050104Exames imunogenéticos/histocompatibilidade para identificação de doador de orgãos                   202501
+050304Açõess complementares destinadas a doação de orgãos, tecidos e células.                             202501
+050404Processamento de pele humana                                                                        202501
+060104Antianêmicos hormonais                                                                              202501
+060304Reguladores de atividade hormonal - inibidores da prolactina                                        202501
+060404Agonistas seletivos dos receptores beta 2 adrenérgicos                                              202501
+070104OPM oftalmológicas                                                                                  202501
+020204Exames coprológicos                                                                                 202501
+010105Praticas integrativas/complementares                                                                202501
+070205OPM comuns                                                                                          202501
+020405Exames radiológicos do abdomen e pelve                                                              202501
+020805Aparelho esquelético                                                                                202501
+021105Diagnóstico em neurologia                                                                           202501
+030105Atenção domiciliar                                                                                  202501
+030205Assistência fisioterapêutica nas disfunções musculo esqueleticas (todas as origens)                 202501
+030305Tratamento de doenças do aparelho da visão                                                          202501
+030405Quimioterapia adjuvante (profilática) - adulto                                                      202501
+030905Práticas integrativas e complementares                                                              202501
+040305Tratamento neurocirúrgico da dor funcional                                                          202501
+040505Conjuntiva, córnea, câmara anterior, íris, corpo ciliar e cristalino                                202501
+040605Eletrofisiologia                                                                                    202501
+040805Membros inferiores                                                                                  202501
+040905Pênis                                                                                               202501
+041205Pulmão                                                                                              202501
+041605Colo-proctologia                                                                                    202501
+050105Exames imunogenéticos/histocompatibilidade para identificação de receptor de orgãos                 202501
+060105Antiasmáticos                                                                                       202501
+060305Antitrombóticos                                                                                     202501
+060405Alcalóides naturais do ópio                                                                         202501
+070105OPM em gastroenterologia                                                                            202501
+020205Exames de uroanálise                                                                                202501
+020206Exames hormonais                                                                                    202501
+020406Exames radiológicos da cintura pélvica e dos membros inferiores                                     202501
+020806Aparelho nervoso                                                                                    202501
+021106Diagnóstico em oftalmologia                                                                         202501
+030106Consulta/Atendimento ás urgências (em geral)                                                        202501
+030206Assistência fisioterapêutica nas alterações em neurologia                                           202501
+030306Tratamento de doenças cardiovasculares                                                              202501
+030406Quimioterapia curativa - adulto                                                                     202501
+030906Acessos venosos                                                                                     202501
+040306Investigação e cirurgia da epilepsia                                                                202501
+040806Gerais                                                                                              202501
+040906Útero e anexos                                                                                      202501
+041606Ginecologia                                                                                         202501
+050106Exames gráficos ou por imagem para diagnóstico de morte encefálica                                  202501
+060106Antibióticos                                                                                        202501
+060306Tensiolítico alveolar                                                                               202501
+060406Alimentos dietéticos isentos de fenilalanina                                                        202501
+070106OPM em urologia                                                                                     202501
+070206OPM em urologia                                                                                     202501
+021107Diagnóstico em otorrinolaringologia/fonoaudiologia                                                  202501
+030407Quimioterapia de tumores de crianca e adolescente                                                   202501
+060407Aminas Terciárias                                                                                   202501
+040307Tratamento neuro-endovascular                                                                       202501
+030907Angiologia                                                                                          202501
+041607Oftalmologia                                                                                        202501
+020207Exames toxicológicos ou de monitorização terapêutica                                                202501
+070207OPM em cirurgias oftálmicas                                                                         202501
+060307Hemoderivados                                                                                       202501
+030107Atendimento/acompanhamento em reabilitação física, mental, visual e múltiplas deficiências          202501
+070107OPM em odontologia                                                                                  202501
+060107Antiepiléticos                                                                                      202501
+030207Assistência fisioterapêutica em queimados                                                           202501
+030307Tratamento de doenças do aparelho digestivo                                                         202501
+020807Aparelho respiratório                                                                               202501
+050107Outros exames complementares para doação de orgãos, tecidos e células                               202501
+040907Vagina, vulva e períneo                                                                             202501
+040908Atenção Especializada à Saúde da População Trans.                                                   202501
+040308Neurocirurgia funcional estereotáxica                                                               202501
+030408Quimioterapia - procedimentos especiais                                                             202501
+030308Tratamento de doenças da pele e do tecido  subcutâneo                                               202501
+030108Atendimento/Acompanhamento psicossocial                                                             202501
+021108Diagnóstico em pneumologia                                                                          202501
+020808Aparelho hematológico                                                                               202501
+020208Exames microbiológicos                                                                              202501
+070208OPM em cirurgia plástica/reparadora                                                                 202501
+070108OPM de anomalias buco-maxilo-facial                                                                 202501
+060408Aminoquinolinas                                                                                     202501
+060308Medicamentos para transplante                                                                       202501
+060108Antiinflamatórios                                                                                   202501
+050108Exames complementares para pacientes transplantados                                                 202501
+041608Pele e cirurgia plástica                                                                            202501
+021109Diagnóstico em urologia                                                                             202501
+070209OPM em cirurgia de otorrinolaringologia                                                             202501
+020809Outros métodos de diagnóstico em medicina nuclear in vivo                                           202501
+060109Antiinflamatórios intestinais                                                                       202501
+020209Exames em outros líquidos biológicos                                                                202501
+030409Medicina nuclear - terapêutica oncológica                                                           202501
+060409Análogos da mostarda nitrogenada                                                                    202501
+030309Tratamento de doenças do sistema osteomuscular e do tecido conjuntivo                               202501
+041609Ossos e partes moles                                                                                202501
+070109Substituição/Troca em órteses/próteses                                                              202501
+030109Atendimento/Acompanhamento em saúde do idoso                                                        202501
+030310Tratamento durante a gestação, parto e puerpério                                                    202501
+030410Gerais em oncologia                                                                                 202501
+070110OPM em queimados                                                                                    202501
+021110Diagnóstico em psicologia-psiquiatria                                                               202501
+041610Neurocirurgia                                                                                       202501
+060410Vasopressina e Análogos                                                                             202501
+030110Atendimentos de enfermagem (em geral)                                                               202501
+070210OPM em nefrologia                                                                                   202501
+060110Antiparkinsonianos                                                                                  202501
+020210Exames de genética                                                                                  202501
+030111Atendimento/Acompanhamento queimados                                                                202501
+021111Diagnóstico em cardiologia intervencionista                                                         202501
+020211Exames para triagem neonatal                                                                        202501
+070211OPM em queimados                                                                                    202501
+060411Análogos do hormônio liberador de gonadotrofina                                                     202501
+060111Antipsicóticos                                                                                      202501
+041611Cirurgia torácica                                                                                   202501
+030311Tratamento de malformações congênitas, deformidades e anomalias cromossômicas                       202501
+060412Antiandrogênios                                                                                     202501
+021112Diagnóstico em traumato-ortopedia                                                                   202501
+070212OPM para transplantes                                                                               202501
+060112Antivirais                                                                                          202501
+020212Exames imunohematológicos                                                                           202501
+030112Atendimento/acompanhamento de diagnóstico de doenças endocrinas/metabolicas e nutricionais          202501
+041612Mastologia                                                                                          202501
+030312Tratamentos por medicina nuclear in vivo                                                            202501
+060113Bloqueadores neuromusculares                                                                        202501
+041613Otorrinolaringologia                                                                                202501
+030113Acompanhamento em outras especialidades                                                             202501
+030313Tratamento de pacientes sob cuidados prolongados                                                    202501
+060413Anticolinesterases                                                                                  202501
+060414Antigonadotrofinas e agentes similares                                                              202501
+060114Ceratolíticos sistêmicos                                                                            202501
+030114Cuidados Paliativos                                                                                 202501
+030314Tratamento de doenças do ouvido/apófise mastóide e vias aéreas                                      202501
+060115Complementos alimentares para fenilcetonúricos                                                      202501
+060415Barbitúricos e derivados                                                                            202501
+030315Tratamento das doenças do aparelho geniturinário                                                    202501
+030115Atenção Especializada à Saúde da População Trans.                                                   202501
+060116Fatores de crescimento mielóides                                                                    202501
+030116Atenção Especializada à Pessoa com Falência Intestinal                                              202501
+030316Tratamento de algumas afecçõess originadas no período neonatal                                      202501
+060416Bisfosfonados                                                                                       202501
+060417Compostos de Alumínio                                                                               202501
+060117Hipnoanalgésicos                                                                                    202501
+030317Tratamento dos transtornos mentais e comportamentais                                                202501
+060118Hipolipemiantes                                                                                     202501
+060418Derivados da benzodiazepina                                                                         202501
+030318Tratamento HIV/Aids                                                                                 202501
+060119Imunomoduladores                                                                                    202501
+060419Derivados de ácidos graxos                                                                          202501
+030319Reabilitação                                                                                        202501
+060120Imunossupressores                                                                                   202501
+060420Derivados do adamantano                                                                             202501
+060121Imunoterapicos                                                                                      202501
+060421Derivados do indol                                                                                  202501
+060122Inibidores da acetilcolinesterase                                                                   202501
+060422Derivados da succinimida                                                                            202501
+060123Mucolíticos                                                                                         202501
+060423Diazepinas, oxazepinas e tiazepinas                                                                 202501
+060124Quelantes do ferro                                                                                  202501
+060424 Enzimas                                                                                            202501
+060125Outros quelantes                                                                                    202501
+060425Fatores de estimulação de colônias                                                                  202501
+060126Reguladores da atividade hormonal-agonistas da vasopressina                                         202501
+060426Ferro trivalente, preparações parenterais                                                           202501
+060127Reguladores da atividade hormonal-analogos do GNRH                                                  202501
+060427Fibratos, Acido Nicotínico e seus derivados                                                         202501
+060128Reguladores da atividade hormonal-antiandrogênicos                                                  202501
+060428Glicocorticóides                                                                                    202501
+060429Somatostatina e Análogos                                                                            202501
+060129Reguladores da atividade hormonal-inibidores das gonadotrofinas                                     202501
+060130Reguladores da atividade hormonal-inibidores do hormônio do crescimento                             202501
+060430 Imunoglobulinas específicas                                                                        202501
+060131Reguladores da atividade hormonal-inibidores de prolactina                                          202501
+060431Imunoglobulinas, humana normal                                                                      202501
+060132Reguladores da atividade hormonal-hormonios de crescimento                                          202501
+060432Imunossupressores seletivos                                                                         202501
+060433Inibidores da agregação plaquetária, excluindo heparina                                             202501
+060133Reguladores da atividade hormonal-hormonios tireoidianos                                            202501
+060134Reguladores da atividade hormonal-mineralocorticóides                                               202501
+060434Inibidores da calcineurina                                                                          202501
+060135Reguladores da homeostase do cálcio                                                                 202501
+060435Inibidores da fosfodiesterase                                                                       202501
+060136Repositores enzimáticos                                                                             202501
+060436Inibidores da HMG-CoA redutase                                                                      202501
+060437Inibidores da monoamino oxidase tipo b                                                              202501
+060438Inibidores do fator de necrose tumoral alfa (TNF-a)                                                 202501
+060439Interferonas                                                                                        202501
+060440Medicamentos para tratamento da hipercalemia e hiperfosfatemia                                      202501
+060441Medicamentos utilizados na dependência de opióides                                                  202501
+060442Mineralocorticóides                                                                                 202501
+060443Modulador seletivo de receptor de estrogênio                                                        202501
+060444Mucolíticos                                                                                         202501
+060445Nucleosídeo e nucleotídeo (excl. inibidores da transcriptase reversa)                               202501
+060446Nucleosídeo e nucleotídeo, Inibidor da transcriptase reversa                                        202501
+060447Outras preparações antianêmicas                                                                     202501
+060448Outros agentes citotóxicos                                                                          202501
+060449Outros agentes dopaminérgicos                                                                       202501
+060450Outros antiepilépticos                                                                              202501
+060451Outros antipsicóticos                                                                               202501
+060452Outros imunoestimulantes                                                                            202501
+060453Outros imunossupressores                                                                            202501
+060454Outros medicamentos do sistema nervoso                                                              202501
+060455Outros relaxantes musculares de ação periférica                                                     202501
+060456Penicilamina e agentes similares                                                                    202501
+060457Preparações de calcitonina                                                                          202501
+060458Preparações de enzimas                                                                              202501
+060459Retinóides para tratamento da acne                                                                  202501
+060460Retinóides para tratamento da psoríase                                                              202501
+060461Somatropina e agonistas da somatropina                                                              202501
+060462Vitamina D e análogos, incluido combinação dos dois                                                 202501
+060463Produtos diversos para o trato alimentar ou metabolismo                                             202501
+060464Inibidores de Protease                                                                              202501
+060465Análogos das Prostaglandinas                                                                        202501
+060466Inibidores da Anidrase Carbonica                                                                    202501
+060467Simpatomiméticos na Terapia de Glaucoma                                                             202501
+060468Anticorpos Monoclonais                                                                              202501
+060469Inibidores de Interleucinas                                                                         202501
+060470Outros Antipsoriaticos de Uso Tópico                                                                202501
+060471Corticoesteróides de Potência Muito Alta (Grupo IV)                                                 202501
+060472Derivados do Ácido Propriônico                                                                      202501
+060473Parassimpaticomiméticos                                                                             202501
+060474Agentes Beta Bloqueadores                                                                           202501
+060475Outros Anti-hipertensivos                                                                           202501
+060476Outros Antivirais                                                                                   202501
+060477Outros Agentes Antiparatireoide                                                                     202501
+060478Insulinas  e análogas                                                                               202501
+060479Outras Drogas para Desordem do Sistema Músculo Esquelético                                          202501
+060480Agentes antitrombóticos                                                                             202501
+060481Outros Aminoglicosídeos                                                                             202501
+060482Inibidores do co-transportador 2 de sódio-glicose (SGLT2)                                           202501
+060483Agentes que atuam no sistema renina- angiotensina                                                   202501
+060484Outras drogas sistêmicas para doenças respiratórias obstrutivas                                     202501
+060485Adrenérgicos em combinação com anticolinérgicos, incluídas combinações triplas com corticosteroides 202501
+060486Outros Produtos para o Sistema Respiratório.                                                        202501
+060487Outros medicamentos afetando a estrutura e a mineralização óssea                                    202501

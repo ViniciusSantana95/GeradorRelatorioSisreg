@@ -1,0 +1,7 @@
+01Atenção Básica (PAB)                                                                                202501
+02Assistência Farmacêutica                                                                            202501
+04Fundo de Ações Estratégicas e Compensações (FAEC)                                                   202501
+05Incentivo - MAC                                                                                     202501
+06Média e Alta Complexidade (MAC)                                                                     202501
+07Vigilância em Saúde                                                                                 202501
+08Gestão do SUS                                                                                       202501

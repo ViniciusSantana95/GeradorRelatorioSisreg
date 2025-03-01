@@ -1,0 +1,37 @@
+040009Atendimento/acompanhamento em reabilitação física, mental, visual, auditiva e múltiplas deficiências202501
+040013Atendimento/acompanhamento de diagnóstico de doenças endocrinas/metabólicas e nutricionais          202501
+040017Nefrologia                                                                                          202501
+040024Cirurgia do aparelho digestivo, orgãos anexos e parede abdominal(inclui pré e pós operatório)       202501
+040028Outras cirurgias plásticas/reparadoras                                                              202501
+040030Sequenciais                                                                                         202501
+040032Transplantes de orgãos, tecidos e células                                                           202501
+040033Medicamentos para transplante                                                                       202501
+040038OPM para transplantes                                                                               202501
+040041Central Nacional de Regulação de Alta Complexidade (CNRAC)                                          202501
+040044Redesignação e Acompanhamento                                                                       202501
+040049Implementar Cirg. CV Pediátrica                                                                     202501
+040055Transplante - Histocompatibilidade                                                                  202501
+040062Doenças Raras                                                                                       202501
+040063Cadeiras de Rodas                                                                                   202501
+040065Medicamentos em Urgência                                                                            202501
+040066Cirurgias Eletivas - Componente Único                                                               202501
+040067Atenção Especializada em Saúde Auditiva                                                             202501
+040068Terapias Especializadas em Angiologia                                                               202501
+040069Tratamento de Doença Macular                                                                        202501
+040070OPME Não Relacionados ao Ato Cirúrgico                                                              202501
+040071Diagnóstico/tratamento em oncologia                                                                 202501
+040072Diagnóstico de trombofilia em gestante                                                              202501
+040073Reabilitação Pós-COVID-19                                                                           202501
+040074Telemedicina em Urgência                                                                            202501
+040075Fisioterapia Cardiovascular                                                                         202501
+040076Hemodinâmica em atendimento de urgência                                                             202501
+040077Exames Sorológicos e Imunológicos                                                                   202501
+040078QualiSUS Cardio                                                                                     202501
+040079Pré-cirúrgico em Cirurgias Prioritárias                                                             202501
+040080Redução das Filas de Procedimentos Eletivos.                                                        202501
+040081Síndrome Respiratória Aguda Grave - SRAG                                                            202501
+040082Alta Complexidade em Cardiologia                                                                    202501
+040083Cirurgia da Face e do Sistema Estomatognático                                                       202501
+040084Neurocirurgias                                                                                      202501
+040085Exames coprológicos                                                                                 202501
+040086Programa Mais Acesso a Especialistas (PMAE)                                                         202501

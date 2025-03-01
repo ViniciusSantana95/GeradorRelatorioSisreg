@@ -1,0 +1,73 @@
+100Serviço de Atenção a Saúde no Sistema Penitenciário                                                                     202501
+101Estratégia de Saúde da Família                                                                                          202501
+102Estratégias de Agentes Comunitário de Saúde                                                                             202501
+103Serviço de Atendimento Móvel de Urgências                                                                               202501
+104Regulação Assistêncial dos Serviços de Saúde                                                                            202501
+105Serviço de Atenção em Neurologia/ Neurocirurgia                                                                         202501
+106Serviço de Atenção a DST/HIV/AIDS                                                                                       202501
+107Atenção à Saúde Auditiva                                                                                                202501
+108Atenção a Saúde do Trabalhador                                                                                          202501
+109Serviço de Atenção a Saúde dos Adolecentes em Conflito com a Lei, em Regime de Internação e Internação Provisória       202501
+110Serviço de Atenção a Saúde Reprodutiva                                                                                  202501
+111Serviço de Atenção ao Paciente com Tuberculose                                                                          202501
+112Serviço de Atenção ao Pré-Natal e Nascimento                                                                            202501
+113Serviço de Atenção Domiciliar                                                                                           202501
+114Serviço de Atenção em Saúde Bucal                                                                                       202501
+115Serviço de Atenção Psicossocial                                                                                         202501
+116Serviço de Atenção Cardiovascular/Cardiologia                                                                           202501
+117Serviço de Cirurgia Reparadora                                                                                          202501
+118Serviço de Cirurgia Torácica                                                                                            202501
+119Serviço de Controle de Tabagismo                                                                                        202501
+120Serviço de Diagnóstico por Anatomia Patológica e/ou Citopatologia                                                       202501
+121Diagnóstico por Imagem                                                                                                  202501
+122Serviço de Diagnóstico por Métodos Gráficos/Dinâmicos                                                                   202501
+123Serviço de Dispensação de Órteses, Próteses e Materiais Especiais                                                       202501
+124Serviço de Endocrinologia                                                                                               202501
+125Serviço de Farmácia                                                                                                     202501
+126Serviço de Fisioterapia                                                                                                 202501
+127Serviço de Atenção à Obesidade                                                                                          202501
+128Serviço de Hemoterapia                                                                                                  202501
+129Servico de Laboratório de Histocompatibilidade                                                                          202501
+130Atenção à Doença Renal Crônica                                                                                          202501
+131Serviço de Oftalmologia                                                                                                 202501
+132Serviço de Oncologia                                                                                                    202501
+133Serviço de Pneumologia                                                                                                  202501
+134Serviço de Práticas Integrativas e Complementares                                                                       202501
+135Serviço de Reabilitação                                                                                                 202501
+136Serviço de Suporte Nutricional                                                                                          202501
+137Serviço de Telemedicina                                                                                                 202501
+138Serviço de Traumato-Ortopedia                                                                                           202501
+139Serviço de Triagem Neonatal                                                                                             202501
+140Serviço de Urgência e Emergência                                                                                        202501
+141Serviço de Vigilância em Saúde                                                                                          202501
+142Serviço de Endoscopia                                                                                                   202501
+143Serviço Móvel de Urgência (exceto SAMU)                                                                                 202501
+144Serviço Posto de Coleta de Materiais Biológicos                                                                         202501
+145Serviço de Diagnóstico por Laboratório Clínico                                                                          202501
+146Serviço de Videolaparoscopia                                                                                            202501
+147Serviço de Apoio a Saúde da Família                                                                                     202501
+148Hospital-Dia                                                                                                            202501
+149Transplante                                                                                                             202501
+150Cirurgia Vascular                                                                                                       202501
+151Medicina Nuclear                                                                                                        202501
+152Atenção à Saúde da População Indígena                                                                                   202501
+153Atenção Especializada no Processo Transexualizador                                                                      202501
+154Serviço de Banco de Tecidos                                                                                             202501
+155Serviço de Traumatologia  Ortopedia                                                                                     202501
+157Serviço de Laboratorio de Protese Dentaria                                                                              202501
+158Serviço de Atenção Integral em Hanseniase                                                                               202501
+159Atenção Primária                                                                                                        202501
+160Teleconsultoria                                                                                                         202501
+161Consultório na Rua                                                                                                      202501
+162Serviço de Terapia Intensiva                                                                                            202501
+163Serviço de Cuidados Intermediários                                                                                      202501
+164Serviço de Órteses,Próteses e Materiais Especiais em Reabilitação                                                       202501
+165Atenção às Pessoas em Situação de Violência Sexual                                                                      202501
+166Serviço de  Análise Laboratorial  de Produtos Sujeitos á  Vigilância Sanitária                                          202501
+167Atendimento Itinerante de Asistência e Ensino em Saúde                                                                  202501
+168Atenção Às Pessoas com Doenças Raras                                                                                    202501
+169Serviço de Atenção em Urologia                                                                                          202501
+170Comissões e Comitês                                                                                                     202501
+171Cuidados Paliativos                                                                                                     202501
+173Logística de Imunobiológicos                                                                                            202501
+174Imunização                                                                                                              202501

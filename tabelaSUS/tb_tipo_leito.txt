@@ -1,0 +1,41 @@
+01Cirúrgico                                                   202501
+02Obstétricos                                                 202501
+03Clínico                                                     202501
+04Crônicos                                                    202501
+05Psiquiatria                                                 202501
+06Pneumologia Sanitária (Tisiologia)                          202501
+07Pediátricos                                                 202501
+08Reabilitação                                                202501
+09Leito Dia / Cirúrgicos                                      202501
+10Leito Dia / Aids                                            202501
+11Leito Dia / Fibrose Cística                                 202501
+12Leito Dia / Intercorrência Pós-Transplante                  202501
+13Leito Dia / Geriatria                                       202501
+14Leito Dia / Saúde Mental                                    202501
+17Estabelecimento Exclusivo UTI SUS                           202501
+51UTI II ADULTO-SINDROME RESP. AGUDA GRAVE (SRAG)-COVID-19    202501
+52UTI II PEDIATRICO-SINDROME RESP. AGUDA GRAVE (SRAG)-COVID-19202501
+65Unidade Intermediária Neonatal                              202501
+74UTI I                                                       202501
+75UTI Adulto II                                               202501
+76UTI Adulto III                                              202501
+77UTI Infantil I                                              202501
+78UTI Infantil II                                             202501
+79UTI Infantil III                                            202501
+80UTI Neonatal I                                              202501
+81UTI Neonatal II                                             202501
+82UTI Neonatal III                                            202501
+83UTI Queimados                                               202501
+84Acolhimento Noturno                                         202501
+85UTI Coronariana-UCO tipo II                                 202501
+86UTI Coronariana-UCO tipo III                                202501
+87Saúde Mental (Clínico)                                      202501
+88Queimado Adulto (Clínico)                                   202501
+89Queimado Pediátrico (Clínico)                               202501
+90Queimado Adulto (Cirúrgico)                                 202501
+91Queimado Pediátrico (Cirúrgico)                             202501
+92UCI Unidade de Cuidados Intermediarios Neonatal Convencional202501
+93UCI Unidade de Cuidados Intermediarios Neonatal Canguru     202501
+94UCI Unidade de Cuidados Intermediarios Pediatrico           202501
+95UCI Unidade de Cuidados Intermediarios Adulto               202501
+96Suporte Ventilatório Pulmonar                               202501
